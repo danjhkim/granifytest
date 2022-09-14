@@ -5,7 +5,7 @@ This exercise is designed to assess how you approach tasks required in your posi
 
 ### Compatible and tested with Node v16.15.1.
 
-### To Run
+### To install
 yarn install
 
 ### To run script
@@ -16,7 +16,7 @@ yarn test
 
 ### Directory and file structure
 
-If order to differentiate the function and purpose of each file they have been categorized and divived into three subdirectories. 
+In order to differentiate the function and purpose of each file they have been categorized and divived into three subdirectories. 
 
 1. animals - A collection of animal constructor classes
    

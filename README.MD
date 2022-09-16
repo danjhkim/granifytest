@@ -16,7 +16,7 @@ yarn test
 
 ### Directory and file structure
 
-In order to differentiate the function and purpose of each file they have been categorized and divived into three subdirectories. 
+In order to differentiate the function and purpose of each file they have been categorized and divided into three subdirectories. 
 
 1. animals - A collection of animal constructor classes
    
@@ -42,7 +42,7 @@ The setName method pushes the new name into the allNames array before setting th
 
 ### speak method
 
-Upon callin the speak method the speakCounter a value of 1 is added immediately before the rest of the method executes. A condition is perform after which states if the speakCounter number is not 0 and has a result of 0 when performing a modulus operation of 5. Onlt then will the age go up by 1 and the speakCounter reset to 0.
+Upon callin the speak method the speakCounter a value of 1 is added immediately before the rest of the method executes. A condition is perform after which states if the speakCounter number is not 0 and has a result of 0 when performing a modulus operation of 5. Only then will the age go up by 1 and the speakCounter reset to 0.
 
 This could have been syntactically shortened to say if the counter reaches 5.
 
